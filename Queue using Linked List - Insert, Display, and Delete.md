@@ -1,4 +1,4 @@
-# 🌀 Queue using Linked List - Insert, Display, and Delete
+# 🌀 Queue using Linked List - Insert, Display, and Delete.
 
 ## 🎯 Aim
 
